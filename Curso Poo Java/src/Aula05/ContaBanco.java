@@ -1,6 +1,6 @@
 public class ContaBanco {
     // Atributos
-    public int numeroConta;
+    public int numeroConta; 
     protected String tipo;
     private String dono;
     private float saldo;

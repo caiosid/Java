@@ -1,8 +1,8 @@
 package Aula03;
 
-public class Aula03 {
+public class Aula03 { 
     public static void main(String[] args) {
-        Jogador jogador = new Jogador();
+        Jogador jogador = new Jogador(); 
         jogador.setNome("Thomas Mülle");
         jogador.setNacionalidade("Alemanha");
         jogador.setPosição("Segundo Atacante");

@@ -1,4 +1,4 @@
-package Aula06;
+package Aula13.Aula06;
 
 public class ControleRemoto implements Controlador {
     // Atributos

@@ -1,3 +1,4 @@
+package Aula13.Aula08;
 public interface Publicacao {
     public abstract void abrir();
     public abstract void fechar();

@@ -20,8 +20,13 @@ public class Exer04 {
             case "e":
             case "i":
             case "o":
-            case "u": System.out.println("vogal");
-            default:
+            case "u":
+            case "A":
+            case "E":
+            case "I":
+            case "O":
+            case "U": System.out.println("vogal");
+            default: System.out.println("consoante");
                 
         }
     }

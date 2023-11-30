@@ -6,13 +6,15 @@ public class Exer02 {
         Scanner scanner = new Scanner(System.in);
 
         boolean inforValidas = false;
+        String nomeUser;
+        String senha;
 
         do {
             System.out.println("Entre com o nome do usuário");
-            String nomeUser = scanner.next();
+            nomeUser = scanner.next();
 
             System.out.println("Entre com a senha:");
-            String senha = scanner.next();
+             senha = scanner.next();
 
             if (nomeUser.equalsIgnoreCase(senha)) {
                 // inforValidas = false;
